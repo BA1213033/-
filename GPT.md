@@ -3,6 +3,7 @@
 ### GPT連結
 https://chat.openai.com/
 
-https://media.gq.com.tw/photos/640af9e870d64564c74ae346/16:9/w_1920,c_limit/2023-article-resize-1-1024x576.jpeg
+![image](https://github.com/BA1213033/-/assets/144581990/e61d5c91-40b0-4b23-b3d3-7c409c680f20)
+
 
 
